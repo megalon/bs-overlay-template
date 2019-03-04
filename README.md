@@ -8,5 +8,7 @@ https://github.com/opl-/beatsaber-http-status
 
 To use the overlay, you can either 
 * Open the `index.html` file within OBS as a local file using the Browser Source.
+
 OR
+
 * Serve the file as a local webpage, then access the webpage from the URL. The npm package `serve` works well for this.
