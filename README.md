@@ -1,7 +1,11 @@
 # Beat Saber Overlay Template
 
 This is a simple template project to build OBS overlays for Beat Saber.
-This project realies on the HTTP Status plugin to get data from Beat Saber over a websocket.
+
+I use this template for many of the overlays I've created on my twitch channel, https://www.twitch.tv/megalonttv
+
+This project relies on the HTTP Status plugin to get data from Beat Saber over a websocket.
+
 
 Make sure you have that plugin installed, or else this won't work.
 https://github.com/opl-/beatsaber-http-status
